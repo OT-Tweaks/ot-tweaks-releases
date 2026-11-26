@@ -1,14 +1,11 @@
 {
-  "version": "1.0.0",
-  "sha256": "20a861e7782b6c275b02bc3016ad7a3b446394605b78c5de551ec2c7b2eaf89e",
-  "size": 97868288,
-  "url": "https://github.com/OT-Tweaks/ot-tweaks-releases/releases/download/trainer-v1.0.0/OT-Aim-Trainer-1.0.0.exe",
+  "version": "1.1.0",
+  "sha256": "24087ae87524d54af907f697618af19b009da2f7afdd81db24bd308ab9de64c0",
+  "size": 97897328,
+  "url": "https://github.com/OT-Tweaks/ot-tweaks-releases/releases/download/trainer-v1.1.0/OT-Aim-Trainer-1.1.0.exe",
   "notes": [
-    "34 drills across 7 skills, plus duels and bot drills",
-    "Ranks from Iron to Champion on every drill",
-    "8 maps with a live preview in the menu",
-    "Hit markers, streaks and new sounds",
-    "Low, Medium and High graphics",
-    "Sensitivity matched to your game in cm/360"
+    "New Sens Finder: finds the sensitivity you aim best with and converts it to Valorant, CS2, Apex and more",
+    "Blind tests at hidden sensitivities, with a likely range and confidence",
+    "Scored for your game: Valorant counts small adjustments and flicks most"
   ]
 }
