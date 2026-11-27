@@ -1,11 +1,9 @@
 {
-  "version": "1.1.0",
-  "sha256": "24087ae87524d54af907f697618af19b009da2f7afdd81db24bd308ab9de64c0",
-  "size": 97897328,
-  "url": "https://github.com/OT-Tweaks/ot-tweaks-releases/releases/download/trainer-v1.1.0/OT-Aim-Trainer-1.1.0.exe",
+  "version": "1.1.1",
+  "sha256": "e5648c27387920c4eeefdcde4afb1b387eb33d37a724fa08b6108290511009ab",
+  "size": 97897472,
+  "url": "https://github.com/OT-Tweaks/ot-tweaks-releases/releases/download/trainer-v1.1.1/OT-Aim-Trainer-1.1.1.exe",
   "notes": [
-    "New Sens Finder: finds the sensitivity you aim best with and converts it to Valorant, CS2, Apex and more",
-    "Blind tests at hidden sensitivities, with a likely range and confidence",
-    "Scored for your game: Valorant counts small adjustments and flicks most"
+    "Fixed: Sens Finder targets could appear under the floor, so nothing showed up"
   ]
 }
